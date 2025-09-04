@@ -20,7 +20,7 @@ Get Started
 
 Ready to experience the convenience of intersms.io?
 
-Visit our official website: https://intersms.io[https://intersms.io]
+Visit our official website: https://intersms.io
 
 Check out the full API documentation: https://intersms.io/docs
 
